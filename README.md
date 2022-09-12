@@ -13,6 +13,7 @@
 
 ### To Do
 - [x] Implement dark mode 🦉
-- - [ ] Dark mode background
+- - [ ] Dark mode background 🌙
 - [ ] Replace filler 'lorem ipsum' text 📄
+- - [ ] Add previous projects & achievements 🏆
 - [ ] Replace filler images 📷
