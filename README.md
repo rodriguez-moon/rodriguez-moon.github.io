@@ -11,7 +11,6 @@
 
 ![example](./example.png)
 
-
 ### To Do
 - [ ] Implement dark mode 🦉
 - [ ] Replace filler 'lorem ipsum' text 📄
