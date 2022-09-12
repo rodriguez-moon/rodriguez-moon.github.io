@@ -9,7 +9,7 @@
     </a>
 </h3>
 
-![example](./example.png)
+![example](./examples/example.dark.png)
 
 ### To Do
 - [ ] Implement dark mode 🦉
