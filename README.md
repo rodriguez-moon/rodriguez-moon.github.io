@@ -12,6 +12,7 @@
 ![example](./example.png)
 
 ### To Do
-- [ ] Implement dark mode 🦉
+- [x] Implement dark mode 🦉
+- - [ ] Dark mode background
 - [ ] Replace filler 'lorem ipsum' text 📄
 - [ ] Replace filler images 📷
