@@ -12,6 +12,8 @@
 ![example](./examples/example.dark.png)
 
 ### To Do
-- [ ] Implement dark mode 🦉
+- [x] Implement dark mode 🦉
+- - [ ] Dark mode background 🌙
 - [ ] Replace filler 'lorem ipsum' text 📄
+- - [ ] Add previous projects & achievements 🏆
 - [ ] Replace filler images 📷
