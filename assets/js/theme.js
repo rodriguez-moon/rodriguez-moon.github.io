@@ -9,14 +9,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (themeStylesheet.href.includes('light')) {
             themeStylesheet.href = 'assets/css/main.dark.css'
             themeToggle.innerText = 'Light Mode'
-            // themeLogo.src = 'images/logo.dark.svg'
+            themeLogo.src = 'images/logo.dark.svg'
             // themeButton.src = 'images/toggle.dark.svg'
             console.log("Changed theme to dark mode.")
         } else {
             // if it's dark -> go light
             themeStylesheet.href = 'assets/css/main.light.css'
             themeToggle.innerText = 'Dark Mode'
-            // themeLogo.src = 'images/logo.light.svg'
+            themeLogo.src = 'images/logo.light.svg'
             // themeButton.src = 'images/toggle.light.svg'
             console.log("Changed theme to light mode.")
             // themeToggle.getElementsById("img") = "assets/images/dark.svg"
